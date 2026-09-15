@@ -1,0 +1,22 @@
+"metric_id","n_applicable","applicable_rate","mean_when_applicable","sd_when_applicable","primary_core_factor","primary_extension_loading","primary_abs_extension_loading","attaches_to_core_factor","n_salient_core_factors","below_min_applicable"
+"Accuracy_Expresses_Uncertainty_expresses_uncertainty_when",202,0.202,1.88613861386139,1.25063404440664,"Factor_2",0.327861965266044,0.327861965266044,"none (< threshold)",0,FALSE
+"Adaptivity_Unstuck",743,0.743,3.42934051144011,1.4256224709641,"Factor_3",0.378458584426889,0.378458584426889,"none (< threshold)",0,FALSE
+"Affect_and_Relational_Support_Adapts_to_Affect",325,0.325,2.12307692307692,1.33457919002019,"Factor_2",0.432453570916429,0.432453570916429,"Factor_2",1,FALSE
+"Affect_and_Relational_Support_Adapts_to_Affect_responds_effectively_if",610,0.61,3.02295081967213,1.42674356129458,"Factor_2",0.380599945251748,0.380599945251748,"none (< threshold)",0,FALSE
+"Affect_and_Relational_Support_Respond_appropriately_to_explicit_affect_cues",450,0.45,2.85333333333333,1.04286738518064,"Factor_2",0.502331553757589,0.502331553757589,"Factor_2",1,FALSE
+"Alignment_to_Constraints_Academic_Integrity__Honesty",795,0.795,4.92578616352201,0.432643714780757,"Factor_6",0.232000282515341,0.232000282515341,"none (< threshold)",0,FALSE
+"Alignment_to_Constraints_Coverage",528,0.528,4.07575757575758,1.21265441667767,"Factor_4",0.487216945002537,0.487216945002537,"Factor_4",1,FALSE
+"Alignment_to_Constraints_Stay_on_topic",716,0.716,4.25977653631285,1.22656012498529,"Factor_3",0.391374480581975,0.391374480581975,"none (< threshold)",0,FALSE
+"Assessment_Self_assessment",258,0.258,2.48837209302326,1.25450955626763,"Factor_7",0.786716821317724,0.786716821317724,"Factor_7",1,FALSE
+"Engagement_and_Motivation_Context_Based_Idea_Generation",714,0.714,3.51680672268908,1.17494789316454,"Factor_1",0.419165319871936,0.419165319871936,"Factor_1",1,FALSE
+"Instructional_Support_Communicates_Aims",200,0.2,1.68,1.04549764544602,"Factor_7",0.473012449147021,0.473012449147021,"Factor_7",2,FALSE
+"Instructional_Support_Communicates_Plan",759,0.759,2.24242424242424,0.871260527541655,"Factor_7",0.283451711519363,0.283451711519363,"none (< threshold)",0,FALSE
+"Instructional_Support_Improvement_Suggestions",734,0.734,1.38283378746594,0.853069016688207,"Factor_7",0.465613612295011,0.465613612295011,"Factor_7",1,FALSE
+"Instructional_Support_Manageable_Chunks_uses_bullet_points",389,0.389,1.44473007712082,1.06255587683041,"Factor_5",0.333903050138834,0.333903050138834,"none (< threshold)",0,FALSE
+"Metacognition_Error_analysis",847,0.847,2.8866587957497,1.1050706492995,"Factor_7",0.308347546169373,0.308347546169373,"none (< threshold)",0,FALSE
+"Metacognition_Justification_for_Knowing",375,0.375,3.048,1.43963750636493,"Factor_4",0.334352719714705,0.334352719714705,"none (< threshold)",0,FALSE
+"Mistake_Handling_Error_Identification__Correction_Precision",812,0.812,3.06034482758621,1.19701802913812,"Factor_3",0.320185857641834,0.320185857641834,"none (< threshold)",0,FALSE
+"Mistake_Handling_Guide_Mistake_Discovery",677,0.677,3.07976366322009,1.46643550153322,"Factor_1",0.489205207262522,0.489205207262522,"Factor_1",1,FALSE
+"Mistake_Handling_Guide_Mistake_Discovery_guides_the_student",836,0.836,2.95454545454545,1.39127853458812,"Factor_1",0.50661835853112,0.50661835853112,"Factor_1",1,FALSE
+"Mistake_Handling_Identifies_mistakes",321,0.321,2.37383177570093,1.02032498945784,"Factor_7",0.358573238694567,0.358573238694567,"none (< threshold)",0,FALSE
+"Mistake_Handling_Mistake_identification",339,0.339,2.25958702064897,1.27927996364876,"Factor_7",0.351873281353937,0.351873281353937,"none (< threshold)",0,FALSE

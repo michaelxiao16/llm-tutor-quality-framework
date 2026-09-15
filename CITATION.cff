@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper."
+title: "Developing an LLM Tutor Quality Evaluation Scale"
+license: Apache-2.0
+repository-code: "https://github.com/michaelxiao16/llm-tutor-quality-framework"
+authors:
+  - family-names: Xiao
+    given-names: Michael
+    affiliation: University of Washington
+  - family-names: Tian
+    given-names: Zewei
+    affiliation: University of Washington
+  - family-names: Liu
+    given-names: Alex
+    affiliation: ColleagueAI
+  - family-names: Esbenshade
+    given-names: Lief
+    affiliation: University of Washington
+  - family-names: Sun
+    given-names: Min
+    affiliation: "University of Washington; ColleagueAI"

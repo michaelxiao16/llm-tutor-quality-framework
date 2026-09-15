@@ -1,0 +1,178 @@
+metric_id,category,subcategory,present_in_all_input_chunks,n_present_rows,n_scored,n_error,n_not_applicable,error_rate_among_present_rows,non_scored_rate_among_present_rows,n_values_mean_imputed,variance_after_imputation,applicability_tier,preprocessing_outcome,retained_for_pooled_efa,analyzed_as_conditional
+Accuracy_Basic_Factual_Accuracy,Accuracy,Basic Factual Accuracy,True,1000,999,0,1,0.0,0.0010000000000000009,1,1.5110325540755973,core,core_retained,True,False
+Accuracy_Domain_Knowledge_Accuracy,Accuracy,Domain Knowledge Accuracy,True,1000,1000,0,0,0.0,0.0,0,1.6627817817817814,core,core_retained,True,False
+Accuracy_Expresses_Uncertainty,Accuracy,Expresses Uncertainty,True,1000,161,1,838,0.001,0.839,0,,rare,fewer_than_200_applicable_convos,False,False
+Accuracy_Expresses_Uncertainty_expresses_uncertainty_when,Accuracy,Expresses Uncertainty,True,1000,202,0,798,0.0,0.798,0,,conditional,conditional_set_aside_for_subset_efa,False,True
+Accuracy_Knowledge_Dimension,Accuracy,Knowledge Dimension,True,1000,997,0,3,0.0,0.0030000000000000027,3,1.542894951119625,core,core_retained,True,False
+Accuracy_No_Contradiction,Accuracy,No Contradiction,True,1000,1000,0,0,0.0,0.0,0,1.0684434434434436,core,core_retained,True,False
+Accuracy_No_Inaccuracies,Accuracy,No Inaccuracies,True,1000,1000,0,0,0.0,0.0,0,1.7271631631631632,core,core_retained,True,False
+Accuracy_Reasoning_Process_Rigor,Accuracy,Reasoning Process Rigor,True,1000,971,0,29,0.0,0.029000000000000026,29,1.7642482853605408,core,core_retained,True,False
+Accuracy_Truthfulness,Accuracy,Truthfulness,True,1000,994,0,6,0.0,0.006000000000000005,6,1.717356189187175,core,core_retained,True,False
+Adaptivity_Accessibility,Adaptivity,Accessibility,True,1000,0,0,1000,0.0,1.0,0,,rare,fewer_than_200_applicable_convos,False,False
+Adaptivity_Adapt_to_the_learners_level,Adaptivity,Adapt to the learner’s level,True,1000,1000,0,0,0.0,0.0,0,1.7327087087087087,core,core_retained,True,False
+Adaptivity_Adaptability,Adaptivity,Adaptability,True,1000,1000,0,0,0.0,0.0,0,1.5775525525525524,core,core_retained,True,False
+Adaptivity_Adapts_to_Needs,Adaptivity,Adapts to Needs,True,1000,1000,0,0,0.0,0.0,0,1.9455455455455455,core,core_retained,True,False
+Adaptivity_Appropriate_Response_Length,Adaptivity,Appropriate Response Length,True,1000,1000,0,0,0.0,0.0,0,1.8035545545545548,core,core_retained,True,False
+Adaptivity_Background_Based_Material_Recommendation,Adaptivity,Background-Based Material Recommendation,True,1000,77,0,923,0.0,0.923,0,,rare,fewer_than_200_applicable_convos,False,False
+Adaptivity_Continuous_assessment,Adaptivity,Continuous assessment,True,1000,1000,0,0,0.0,0.0,0,1.6433143143143139,core,core_retained,True,False
+Adaptivity_Guides_Appropriately,Adaptivity,Guides Appropriately,True,1000,1000,0,0,0.0,0.0,0,2.3429989989989988,core,core_retained,True,False
+Adaptivity_Guides_Appropriately_does_not_withhold,Adaptivity,Guides Appropriately,True,1000,1000,0,0,0.0,0.0,0,2.1445195195195197,core,core_retained,True,False
+Adaptivity_Instructional_Adaptation_Effectiveness,Adaptivity,Instructional Adaptation Effectiveness,True,1000,1000,0,0,0.0,0.0,0,2.0611171171171168,core,core_retained,True,False
+Adaptivity_Leveled_Concept_Explanation,Adaptivity,Leveled Concept Explanation,True,1000,1000,0,0,0.0,0.0,0,1.5503093093093092,core,core_retained,True,False
+Adaptivity_Leveling,Adaptivity,Leveling,True,1000,1000,0,0,0.0,0.0,0,1.8355795795795795,core,core_retained,True,False
+Adaptivity_Leveling_the_tutors_explanations,Adaptivity,Leveling,True,1000,1000,0,0,0.0,0.0,0,1.6486236236236236,core,core_retained,True,False
+Adaptivity_Pedagogical_Principle_Criteria_Challenge,Adaptivity,Pedagogical Principle Criteria: Challenge,True,1000,1000,0,0,0.0,0.0,0,1.806750750750751,core,core_retained,True,False
+Adaptivity_Personalization_Adaptation__Learning_Support,Adaptivity,"Personalization, Adaptation & Learning Support",True,1000,1000,0,0,0.0,0.0,0,1.8272022022022023,core,core_retained,True,False
+Adaptivity_Proactive,Adaptivity,Proactive,True,1000,1000,0,0,0.0,0.0,0,1.9342182182182184,core,core_retained,True,False
+Adaptivity_Scenario_Element_Integration,Adaptivity,Scenario Element Integration,True,1000,1000,0,0,0.0,0.0,0,1.5479639639639642,core,core_retained,True,False
+Adaptivity_Student_level_calibration,Adaptivity,Student-level calibration,True,1000,1000,0,0,0.0,0.0,0,1.7004914914914913,core,core_retained,True,False
+Adaptivity_Unstuck,Adaptivity,Unstuck,True,1000,743,0,257,0.0,0.257,0,,conditional,conditional_set_aside_for_subset_efa,False,True
+Adaptivity_Unstuck_effectively_adapts_its,Adaptivity,Unstuck,True,1000,982,0,18,0.0,0.018000000000000016,18,2.039833112134538,core,core_retained,True,False
+Affect_and_Relational_Support_Adapts_to_Affect,Affect and Relational Support,Adapts to Affect,True,1000,325,0,675,0.0,0.675,0,,conditional,conditional_set_aside_for_subset_efa,False,True
+Affect_and_Relational_Support_Adapts_to_Affect_responds_effectively_if,Affect and Relational Support,Adapts to Affect,True,1000,610,0,390,0.0,0.39,0,,conditional,conditional_set_aside_for_subset_efa,False,True
+Affect_and_Relational_Support_Communicate_with_positive_tone,Affect and Relational Support,Communicate with positive tone,True,1000,1000,0,0,0.0,0.0,0,2.1374614614614615,core,core_retained,True,False
+Affect_and_Relational_Support_Cultural_analogies,Affect and Relational Support,Cultural analogies,True,1000,948,0,52,0.0,0.052000000000000046,52,1.7520769714862543,core,core_retained,True,False
+Affect_and_Relational_Support_Emotional_component_calibration,Affect and Relational Support,Emotional component calibration,True,1000,1000,0,0,0.0,0.0,0,1.8378368368368367,core,core_retained,True,False
+Affect_and_Relational_Support_Fluency,Affect and Relational Support,Fluency,True,1000,1000,0,0,0.0,0.0,0,1.7378968968968969,core,core_retained,True,False
+Affect_and_Relational_Support_Human_likeness,Affect and Relational Support,Human-likeness,True,1000,1000,0,0,0.0,0.0,0,1.48116016016016,core,core_retained,True,False
+Affect_and_Relational_Support_Learning_Exploration,Affect and Relational Support,Learning Exploration,True,1000,1000,0,0,0.0,0.0,0,1.66414014014014,core,core_retained,True,False
+Affect_and_Relational_Support_Moral_responsibility,Affect and Relational Support,Moral responsibility,True,1000,153,0,847,0.0,0.847,0,,rare,fewer_than_200_applicable_convos,False,False
+Affect_and_Relational_Support_Respond_appropriately_to_explicit_affect_cues,Affect and Relational Support,Respond appropriately to explicit affect cues,True,1000,450,0,550,0.0,0.55,0,,conditional,conditional_set_aside_for_subset_efa,False,True
+Affect_and_Relational_Support_Role__Tone_Consistency,Affect and Relational Support,Role & Tone Consistency,True,1000,1000,0,0,0.0,0.0,0,1.75654054054054,core,core_retained,True,False
+Affect_and_Relational_Support_Speaks_encouragingly,Affect and Relational Support,Speaks encouragingly,True,1000,996,0,4,0.0,0.0040000000000000036,4,1.9158063686176139,core,core_retained,True,False
+Affect_and_Relational_Support_Style_and_Tone,Affect and Relational Support,Style and Tone,True,1000,1000,0,0,0.0,0.0,0,1.8411601601601602,core,core_retained,True,False
+Affect_and_Relational_Support_Tutor_tone,Affect and Relational Support,Tutor tone,True,1000,1000,0,0,0.0,0.0,0,1.3221181181181179,core,core_retained,True,False
+Affect_and_Relational_Support_Warm,Affect and Relational Support,Warm,True,1000,1000,0,0,0.0,0.0,0,1.4675865865865865,core,core_retained,True,False
+Affect_and_Relational_Support_Well_intentioned,Affect and Relational Support,Well-intentioned,True,1000,1000,0,0,0.0,0.0,0,0.6643283283283281,core,core_retained,True,False
+Alignment_to_Constraints_Academic_Integrity__Honesty,Alignment to Constraints,Academic Integrity & Honesty,True,1000,795,0,205,0.0,0.20499999999999996,0,,conditional,conditional_set_aside_for_subset_efa,False,True
+Alignment_to_Constraints_Coherence,Alignment to Constraints,Coherence,True,1000,1000,0,0,0.0,0.0,0,1.7335085085085087,core,core_retained,True,False
+Alignment_to_Constraints_Conciseness_and_Relevance,Alignment to Constraints,Conciseness and Relevance,True,1000,1000,0,0,0.0,0.0,0,1.75606006006006,core,core_retained,True,False
+Alignment_to_Constraints_Content_Relevance__Scope_Control,Alignment to Constraints,Content Relevance & Scope Control,True,1000,1000,0,0,0.0,0.0,0,1.590034034034034,core,core_retained,True,False
+Alignment_to_Constraints_Coverage,Alignment to Constraints,Coverage,True,1000,528,0,472,0.0,0.472,0,,conditional,conditional_set_aside_for_subset_efa,False,True
+Alignment_to_Constraints_Dont_reveal_the_answer,Alignment to Constraints,Don't reveal the answer,True,1000,1000,0,0,0.0,0.0,0,2.351790790790791,core,core_retained,True,False
+Alignment_to_Constraints_Guides_to_Answer,Alignment to Constraints,Guides to Answer,True,1000,1000,0,0,0.0,0.0,0,1.5658018018018018,core,core_retained,True,False
+Alignment_to_Constraints_Instruction_Following__Task_Completion,Alignment to Constraints,Instruction Following & Task Completion,True,1000,1000,0,0,0.0,0.0,0,1.7466426426426425,core,core_retained,True,False
+Alignment_to_Constraints_Instruction_following,Alignment to Constraints,Instruction following,True,1000,990,0,10,0.0,0.010000000000000009,10,1.9999635999636005,core,core_retained,True,False
+Alignment_to_Constraints_No_Contradiction,Alignment to Constraints,No Contradiction,True,1000,999,0,1,0.0,0.0010000000000000009,1,1.1290389488587687,core,core_retained,True,False
+Alignment_to_Constraints_No_Irrelevant_Info,Alignment to Constraints,No Irrelevant Info,True,1000,1000,0,0,0.0,0.0,0,1.571887887887888,core,core_retained,True,False
+Alignment_to_Constraints_No_Refusals,Alignment to Constraints,No Refusals,True,1000,1000,0,0,0.0,0.0,0,1.3804194194194193,core,core_retained,True,False
+Alignment_to_Constraints_No_Repetition,Alignment to Constraints,No Repetition,True,1000,1000,0,0,0.0,0.0,0,1.9082832832832832,core,core_retained,True,False
+Alignment_to_Constraints_No_Repetition_avoids_repeating_information,Alignment to Constraints,No Repetition,True,1000,1000,0,0,0.0,0.0,0,1.6217977977977978,core,core_retained,True,False
+Alignment_to_Constraints_Privacy__Consent,Alignment to Constraints,Privacy & Consent,True,1000,37,0,963,0.0,0.963,0,,rare,fewer_than_200_applicable_convos,False,False
+Alignment_to_Constraints_Relevance,Alignment to Constraints,Relevance,True,1000,946,0,54,0.0,0.05400000000000005,54,0.9245355291866919,core,core_retained,True,False
+Alignment_to_Constraints_Responsibility_and_Ethics,Alignment to Constraints,Responsibility and Ethics,True,1000,121,0,879,0.0,0.879,0,,rare,fewer_than_200_applicable_convos,False,False
+Alignment_to_Constraints_Revealing_of_the_answer,Alignment to Constraints,Revealing of the answer,True,1000,948,10,42,0.01,0.052000000000000046,52,1.5077725404729625,core,core_retained,True,False
+Alignment_to_Constraints_Stay_on_topic,Alignment to Constraints,Stay on topic,True,1000,716,0,284,0.0,0.28400000000000003,0,,conditional,conditional_set_aside_for_subset_efa,False,True
+Alignment_to_Constraints_Strategic_Deception_Signals,Alignment to Constraints,Strategic Deception Signals,True,1000,165,0,835,0.0,0.835,0,,rare,fewer_than_200_applicable_convos,False,False
+Alignment_to_Constraints_Transparency__Accountability,Alignment to Constraints,Transparency & Accountability,True,1000,24,0,976,0.0,0.976,0,,rare,fewer_than_200_applicable_convos,False,False
+Assessment_Assessment_Effectiveness,Assessment,Assessment Effectiveness,True,1000,1000,0,0,0.0,0.0,0,1.7168678678678682,core,core_retained,True,False
+Assessment_Comprehension_Summary,Assessment,Comprehension Summary,True,1000,1000,0,0,0.0,0.0,0,1.8032592592592593,core,core_retained,True,False
+Assessment_Goal,Assessment,Goal,True,1000,1000,0,0,0.0,0.0,0,1.4584974974974978,core,core_retained,True,False
+Assessment_Insight,Assessment,Insight,True,1000,1000,0,0,0.0,0.0,0,1.6203313313313314,core,core_retained,True,False
+Assessment_Self_assessment,Assessment,Self-assessment,True,1000,258,0,742,0.0,0.742,0,,conditional,conditional_set_aside_for_subset_efa,False,True
+Assessment_Synthesizing,Assessment,Synthesizing,True,1000,1000,0,0,0.0,0.0,0,1.6841281281281284,core,core_retained,True,False
+Engagement_and_Motivation_Active_Engagement,Engagement and Motivation,Active Engagement,True,1000,1000,0,0,0.0,0.0,0,1.7363603603603606,core,core_retained,True,False
+Engagement_and_Motivation_Active_Engagement_promotes_active_engagement,Engagement and Motivation,Active Engagement,True,1000,1000,0,0,0.0,0.0,0,1.7164804804804805,core,core_retained,True,False
+Engagement_and_Motivation_Asks_Questions,Engagement and Motivation,Asks Questions,True,1000,1000,0,0,0.0,0.0,0,2.667067067067067,core,core_retained,True,False
+Engagement_and_Motivation_Asks_Questions_asks_questions_to,Engagement and Motivation,Asks Questions,True,1000,1000,0,0,0.0,0.0,0,2.8119959959959964,core,core_retained,True,False
+Engagement_and_Motivation_Constructive_Feedback,Engagement and Motivation,Constructive Feedback,True,1000,1000,0,0,0.0,0.0,0,1.4798388388388388,core,core_retained,True,False
+Engagement_and_Motivation_Constructive_Feedback_provides_clear_constructive,Engagement and Motivation,Constructive Feedback,True,1000,950,0,50,0.0,0.050000000000000044,50,2.0677108687635,core,core_retained,True,False
+Engagement_and_Motivation_Context_Based_Idea_Generation,Engagement and Motivation,Context-Based Idea Generation,True,1000,714,0,286,0.0,0.28600000000000003,0,,conditional,conditional_set_aside_for_subset_efa,False,True
+Engagement_and_Motivation_Emotional_Support,Engagement and Motivation,Emotional Support,True,1000,1000,0,0,0.0,0.0,0,1.5016606606606604,core,core_retained,True,False
+Engagement_and_Motivation_Encouraging_Feedback,Engagement and Motivation,Encouraging Feedback,True,1000,900,0,100,0.0,0.09999999999999998,100,1.5191847402958514,core,core_retained,True,False
+Engagement_and_Motivation_Encouraging_Feedback_delivers_feedback_whether,Engagement and Motivation,Encouraging Feedback,True,1000,999,0,1,0.0,0.0010000000000000009,1,1.9111543976408842,core,core_retained,True,False
+Engagement_and_Motivation_Identifies_successes,Engagement and Motivation,Identifies successes,True,1000,952,0,48,0.0,0.04800000000000004,48,1.9736332971627086,core,core_retained,True,False
+Engagement_and_Motivation_Inspires_interest,Engagement and Motivation,Inspires interest,True,1000,1000,0,0,0.0,0.0,0,1.6626376376376375,core,core_retained,True,False
+Engagement_and_Motivation_Interest,Engagement and Motivation,Interest,True,1000,998,0,2,0.0,0.0020000000000000018,2,1.6026176477078282,core,core_retained,True,False
+Engagement_and_Motivation_Monitors_motivation,Engagement and Motivation,Monitors motivation,True,1000,1000,0,0,0.0,0.0,0,1.797156156156156,core,core_retained,True,False
+Engagement_and_Motivation_Motivation_Guidance__Positive_Feedback,Engagement and Motivation,"Motivation, Guidance & Positive Feedback",True,1000,1000,0,0,0.0,0.0,0,2.130530530530531,core,core_retained,True,False
+Engagement_and_Motivation_Openings,Engagement and Motivation,Openings,True,1000,1000,0,0,0.0,0.0,0,2.097416416416416,core,core_retained,True,False
+Engagement_and_Motivation_Opportunities_for_Engagement,Engagement and Motivation,Opportunities for Engagement,True,1000,1000,0,0,0.0,0.0,0,1.4104464464464466,core,core_retained,True,False
+Engagement_and_Motivation_Ownership_of_ideas,Engagement and Motivation,Ownership of ideas,True,1000,1000,0,0,0.0,0.0,0,1.1695445445445445,core,core_retained,True,False
+Engagement_and_Motivation_Pedagogical_Principle_Criteria_Feedback,Engagement and Motivation,Pedagogical Principle Criteria: Feedback,True,1000,924,0,76,0.0,0.07599999999999996,76,1.4416266916266915,core,core_retained,True,False
+Engagement_and_Motivation_Promote_active_engagement,Engagement and Motivation,Promote active engagement,True,1000,1000,0,0,0.0,0.0,0,1.9753263263263265,core,core_retained,True,False
+Engagement_and_Motivation_Promotes_engagement,Engagement and Motivation,Promotes engagement,True,1000,1000,0,0,0.0,0.0,0,1.8728718718718718,core,core_retained,True,False
+Engagement_and_Motivation_Stimulates_Interest,Engagement and Motivation,Stimulates Interest,True,1000,1000,0,0,0.0,0.0,0,1.7475835835835836,core,core_retained,True,False
+Engagement_and_Motivation_Stimulates_Interest_tries_to_stimulate,Engagement and Motivation,Stimulates Interest,True,1000,1000,0,0,0.0,0.0,0,1.6935295295295298,core,core_retained,True,False
+Instructional_Support_Actionability,Instructional Support,Actionability,True,1000,914,0,86,0.0,0.08599999999999997,86,1.4588987236689641,core,core_retained,True,False
+Instructional_Support_Analogies,Instructional Support,Analogies,True,1000,979,1,20,0.001,0.02100000000000002,21,2.0005909893550347,core,core_retained,True,False
+Instructional_Support_Analogies_the_tutors_use,Instructional Support,Analogies,True,1000,960,0,40,0.0,0.040000000000000036,40,1.9922881214547878,core,core_retained,True,False
+Instructional_Support_Communicates_Aims,Instructional Support,Communicates Aims,True,1000,200,0,800,0.0,0.8,0,,conditional,conditional_set_aside_for_subset_efa,False,True
+Instructional_Support_Communicates_Plan,Instructional Support,Communicates Plan,True,1000,759,0,241,0.0,0.241,0,,conditional,conditional_set_aside_for_subset_efa,False,True
+Instructional_Support_Deep_Socratic_Follow_Up_Questions,Instructional Support,Deep Socratic Follow-Up Questions,True,1000,999,0,1,0.0,0.0010000000000000009,1,2.919468016565113,core,core_retained,True,False
+Instructional_Support_Depth_of_reasoning,Instructional Support,Depth of reasoning,True,1000,1000,0,0,0.0,0.0,0,1.724035035035035,core,core_retained,True,False
+Instructional_Support_Engagement_and_Motivation_Clarity_Simplicity__Inspiration,Instructional Support; Engagement and Motivation,"Clarity, Simplicity & Inspiration",True,1000,1000,0,0,0.0,0.0,0,1.757132132132132,core,core_retained,True,False
+Instructional_Support_Evidence_based_reasoning,Instructional Support,Evidence-based reasoning,True,1000,1000,0,0,0.0,0.0,0,1.6437397397397397,core,core_retained,True,False
+Instructional_Support_Explainability,Instructional Support,Explainability,True,1000,126,0,874,0.0,0.874,0,,rare,fewer_than_200_applicable_convos,False,False
+Instructional_Support_Explains_concepts,Instructional Support,Explains concepts,True,1000,1000,0,0,0.0,0.0,0,1.7699689689689693,core,core_retained,True,False
+Instructional_Support_Feedback,Instructional Support,Feedback,True,1000,998,0,2,0.0,0.0020000000000000018,2,1.7756243217165057,core,core_retained,True,False
+Instructional_Support_Feedback_Effectiveness,Instructional Support,Feedback Effectiveness,True,1000,1000,0,0,0.0,0.0,0,1.9294334334334335,core,core_retained,True,False
+Instructional_Support_Feedback__Assessment,Instructional Support,Feedback & Assessment,True,1000,984,0,16,0.0,0.016000000000000014,16,1.8742116099839676,core,core_retained,True,False
+Instructional_Support_Guide_towards_the_answer___checking_that_the_tutor_provides_actionable_steps,Instructional Support,Guide towards the answer - checking that the tutor provides actionable steps,True,1000,984,0,16,0.0,0.016000000000000014,16,2.3373607347184584,core,core_retained,True,False
+Instructional_Support_Guides_student,Instructional Support,Guides student,True,1000,1000,0,0,0.0,0.0,0,1.8514824824824823,core,core_retained,True,False
+Instructional_Support_Improvement_Suggestions,Instructional Support,Improvement Suggestions,True,1000,734,0,266,0.0,0.266,0,,conditional,conditional_set_aside_for_subset_efa,False,True
+Instructional_Support_In_class_Activities__Feedback,Instructional Support,In-class Activities & Feedback,True,1000,1000,0,0,0.0,0.0,0,2.0608358358358365,core,core_retained,True,False
+Instructional_Support_Info_Order,Instructional Support,Info Order,True,1000,1000,0,0,0.0,0.0,0,1.5475385385385383,core,core_retained,True,False
+Instructional_Support_Info_Order_develops_explanations_in,Instructional Support,Info Order,True,1000,1000,0,0,0.0,0.0,0,1.5321631631631634,core,core_retained,True,False
+Instructional_Support_Info_Presentation,Instructional Support,Info Presentation,True,1000,1000,0,0,0.0,0.0,0,1.8801841841841838,core,core_retained,True,False
+Instructional_Support_Info_Presentation_presents_information_in,Instructional Support,Info Presentation,True,1000,1000,0,0,0.0,0.0,0,1.8758268268268263,core,core_retained,True,False
+Instructional_Support_Interactivity,Instructional Support,Interactivity,True,1000,1000,0,0,0.0,0.0,0,1.7076826826826828,core,core_retained,True,False
+Instructional_Support_Manageable_Chunks,Instructional Support,Manageable Chunks,True,1000,1000,0,0,0.0,0.0,0,1.3944944944944948,core,core_retained,True,False
+Instructional_Support_Manageable_Chunks_uses_bullet_points,Instructional Support,Manageable Chunks,True,1000,389,0,611,0.0,0.611,0,,conditional,conditional_set_aside_for_subset_efa,False,True
+Instructional_Support_No_Irrelevant_Info,Instructional Support,No Irrelevant Info,True,1000,1000,0,0,0.0,0.0,0,1.571171171171171,core,core_retained,True,False
+Instructional_Support_Partisanship,Instructional Support,Partisanship,True,1000,172,0,828,0.0,0.8280000000000001,0,,rare,fewer_than_200_applicable_convos,False,False
+Instructional_Support_Pedagogical_Principle_Criteria_Explanation,Instructional Support,Pedagogical Principle Criteria: Explanation,True,1000,1000,0,0,0.0,0.0,0,1.9047757757757757,core,core_retained,True,False
+Instructional_Support_Pedagogical_Principle_Criteria_Modelling,Instructional Support,Pedagogical Principle Criteria: Modelling,True,1000,998,0,2,0.0,0.0020000000000000018,2,2.175840168826141,core,core_retained,True,False
+Instructional_Support_Pedagogical_Principle_Criteria_Practice,Instructional Support,Pedagogical Principle Criteria: Practice,True,1000,1000,0,0,0.0,0.0,0,1.7388178178178177,core,core_retained,True,False
+Instructional_Support_Persuasive_discourse,Instructional Support,Persuasive discourse,True,1000,999,0,1,0.0,0.0010000000000000009,1,1.491076662247833,core,core_retained,True,False
+Instructional_Support_Problem_based_learning,Instructional Support,Problem-based learning,True,1000,999,0,1,0.0,0.0010000000000000009,1,1.1667964260556856,core,core_retained,True,False
+Instructional_Support_Providing_guidance,Instructional Support,Providing guidance,True,1000,1000,0,0,0.0,0.0,0,1.8105215215215216,core,core_retained,True,False
+Instructional_Support_Question_Diversity,Instructional Support,Question Diversity,True,1000,1000,0,0,0.0,0.0,0,2.3621131131131134,core,core_retained,True,False
+Instructional_Support_Response,Instructional Support,Response,True,1000,1000,0,0,0.0,0.0,0,1.3533693693693694,core,core_retained,True,False
+Instructional_Support_Scaffolding,Instructional Support,Scaffolding,True,1000,1000,0,0,0.0,0.0,0,1.8526836836836835,core,core_retained,True,False
+Instructional_Support_Scaffolding_Progression,Instructional Support,Scaffolding Progression,True,1000,1000,0,0,0.0,0.0,0,2.016460460460461,core,core_retained,True,False
+Instructional_Support_Straightforward_Response,Instructional Support,Straightforward Response,True,1000,1000,0,0,0.0,0.0,0,2.0617727727727724,core,core_retained,True,False
+Instructional_Support_Straightforward_Response_the_tutors_responses,Instructional Support,Straightforward Response,True,1000,1000,0,0,0.0,0.0,0,1.89466966966967,core,core_retained,True,False
+Metacognition_Classroom_Culture,Metacognition,Classroom Culture,True,1000,1000,0,0,0.0,0.0,0,1.7517107107107106,core,core_retained,True,False
+Metacognition_Critical_thinking,Metacognition,Critical thinking,True,1000,1000,0,0,0.0,0.0,0,1.4785785785785783,core,core_retained,True,False
+Metacognition_Cultural_identity_exploration,Metacognition,Cultural identity exploration,True,1000,131,0,869,0.0,0.869,0,,rare,fewer_than_200_applicable_convos,False,False
+Metacognition_Error_analysis,Metacognition,Error analysis,True,1000,847,0,153,0.0,0.15300000000000002,0,,conditional,conditional_set_aside_for_subset_efa,False,True
+Metacognition_Exploration_vs_Explanation,Metacognition,Exploration vs. Explanation,True,1000,1000,0,0,0.0,0.0,0,2.0931321321321326,core,core_retained,True,False
+Metacognition_Generative_questioning,Metacognition,Generative questioning,True,1000,1000,0,0,0.0,0.0,0,2.275875875875876,core,core_retained,True,False
+Metacognition_Higher_Order_Thinking__Skill_Development,Metacognition,Higher-Order Thinking & Skill Development,True,1000,1000,0,0,0.0,0.0,0,1.8315555555555552,core,core_retained,True,False
+Metacognition_Justification_for_Knowing,Metacognition,Justification for Knowing,True,1000,375,0,625,0.0,0.625,0,,conditional,conditional_set_aside_for_subset_efa,False,True
+Metacognition_Learning_Exploration,Metacognition,Learning Exploration,True,1000,1000,0,0,0.0,0.0,0,1.8062062062062063,core,core_retained,True,False
+Metacognition_Metacognitive_Promotion,Metacognition,Metacognitive Promotion,True,1000,992,0,8,0.0,0.008000000000000007,8,1.5323065000484357,core,core_retained,True,False
+Metacognition_Pedagogical_Principle_Criteria_Questioning,Metacognition,Pedagogical Principle Criteria: Questioning,True,1000,1000,0,0,0.0,0.0,0,2.4835675675675675,core,core_retained,True,False
+Metacognition_Reflection,Metacognition,Reflection,True,1000,998,0,2,0.0,0.0020000000000000018,2,1.488931817589132,core,core_retained,True,False
+Metacognition_Reflective_growth,Metacognition,Reflective growth,True,1000,967,0,33,0.0,0.03300000000000003,33,1.3550220334087966,core,core_retained,True,False
+Metacognition_Self_reflection,Metacognition,Self-reflection,True,1000,126,0,874,0.0,0.874,0,,rare,fewer_than_200_applicable_convos,False,False
+Metacognition_Strategic_thinking,Metacognition,Strategic thinking,True,1000,902,0,98,0.0,0.09799999999999998,98,0.9978626076187052,core,core_retained,True,False
+Metacognition_Thinking,Metacognition,Thinking,True,1000,1000,0,0,0.0,0.0,0,1.767598598598599,core,core_retained,True,False
+Metacognition_Thinking_aloud,Metacognition,Thinking aloud,True,1000,1000,0,0,0.0,0.0,0,1.1319759759759762,core,core_retained,True,False
+Mistake_Handling_Acknowledge_Correctness,Mistake Handling,Acknowledge Correctness,True,1000,999,0,1,0.0,0.0010000000000000009,1,1.0287484681879075,core,core_retained,True,False
+Mistake_Handling_Error_Identification__Correction_Precision,Mistake Handling,Error Identification & Correction Precision,True,1000,812,0,188,0.0,0.18799999999999994,0,,conditional,conditional_set_aside_for_subset_efa,False,True
+Mistake_Handling_Guide_Mistake_Discovery,Mistake Handling,Guide Mistake Discovery,True,1000,677,0,323,0.0,0.32299999999999995,0,,conditional,conditional_set_aside_for_subset_efa,False,True
+Mistake_Handling_Guide_Mistake_Discovery_guides_the_student,Mistake Handling,Guide Mistake Discovery,True,1000,836,0,164,0.0,0.16400000000000003,0,,conditional,conditional_set_aside_for_subset_efa,False,True
+Mistake_Handling_Identifies_mistakes,Mistake Handling,Identifies mistakes,True,1000,321,0,679,0.0,0.679,0,,conditional,conditional_set_aside_for_subset_efa,False,True
+Mistake_Handling_Identify_and_address_misconceptions,Mistake Handling,Identify and address misconceptions,True,1000,194,0,806,0.0,0.806,0,,rare,fewer_than_200_applicable_convos,False,False
+Mistake_Handling_Mistake_identification,Mistake Handling,Mistake identification,True,1000,339,0,661,0.0,0.661,0,,conditional,conditional_set_aside_for_subset_efa,False,True
+Mistake_Handling_Mistake_location,Mistake Handling,Mistake location,True,1000,157,0,843,0.0,0.843,0,,rare,fewer_than_200_applicable_convos,False,False
+Mistake_Handling_Refinement,Mistake Handling,Refinement,True,1000,151,0,849,0.0,0.849,0,,rare,fewer_than_200_applicable_convos,False,False
+Overall_Rating_Certainty_of_Knowledge,Overall Rating,Certainty of Knowledge,True,1000,999,0,1,0.0,0.0010000000000000009,1,1.814080346612879,core,core_retained,True,False
+Overall_Rating_Cognitive_Level,Overall Rating,Cognitive Level,True,1000,998,0,2,0.0,0.0020000000000000018,2,1.4206922353214937,core,core_retained,True,False
+Overall_Rating_Competent,Overall Rating,Competent,True,1000,1000,0,0,0.0,0.0,0,1.8816056056056056,core,core_retained,True,False
+Overall_Rating_Continue_using,Overall Rating,Continue using,True,1000,1000,0,0,0.0,0.0,0,2.1556716716716724,core,core_retained,True,False
+Overall_Rating_Future,Overall Rating,Future,True,1000,1000,0,0,0.0,0.0,0,2.082498498498498,core,core_retained,True,False
+Overall_Rating_Intelligent,Overall Rating,Intelligent,True,1000,1000,0,0,0.0,0.0,0,1.753952952952953,core,core_retained,True,False
+Overall_Rating_Learning_Goal,Overall Rating,Learning Goal,True,1000,993,0,7,0.0,0.007000000000000006,7,1.359028716531234,core,core_retained,True,False
+Overall_Rating_Learning_Objective_Achievement_Effectiveness,Overall Rating,Learning Objective Achievement Effectiveness,True,1000,1000,0,0,0.0,0.0,0,1.7331241241241242,core,core_retained,True,False
+Overall_Rating_Overall_Quality,Overall Rating,Overall Quality,True,1000,1000,0,0,0.0,0.0,0,2.06102002002002,core,core_retained,True,False
+Overall_Rating_Overall_Quality_is_as_good,Overall Rating,Overall Quality,True,1000,1000,0,0,0.0,0.0,0,2.0071071071071076,core,core_retained,True,False
+Overall_Rating_Questioning_Effectiveness,Overall Rating,Questioning Effectiveness,True,1000,1000,0,0,0.0,0.0,0,1.8629629629629627,core,core_retained,True,False
+Overall_Rating_Simplicity_vs_Complexity,Overall Rating,Simplicity vs. Complexity,True,1000,1000,0,0,0.0,0.0,0,1.67390990990991,core,core_retained,True,False
+Overall_Rating_Source_of_Knowledge,Overall Rating,Source of Knowledge,True,1000,1000,0,0,0.0,0.0,0,2.268067067067067,core,core_retained,True,False
+Safety_Fairness_Agency__Care,Safety,"Fairness, Agency & Care",True,1000,1000,0,0,0.0,0.0,0,1.6894934934934938,core,core_retained,True,False
+Understanding_Learner_Goals_Helpfulness,Understanding Learner Goals,Helpfulness,True,1000,999,0,1,0.0,0.0010000000000000009,1,1.7725613501389277,core,core_retained,True,False
+Understanding_Learner_Goals_Identifies_goal,Understanding Learner Goals,Identifies goal,True,1000,1000,0,0,0.0,0.0,0,1.4591301301301303,core,core_retained,True,False
+Understanding_Learner_Goals_Question_Relevance,Understanding Learner Goals,Question Relevance,True,1000,990,0,10,0.0,0.010000000000000009,10,1.8511683400572285,core,core_retained,True,False

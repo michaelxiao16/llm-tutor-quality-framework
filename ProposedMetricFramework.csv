@@ -1,0 +1,156 @@
+Category,Subcategory,Prompt,References
+Overall Quality,Pedagogical quality,"Your task is to rate the Tutor's overall pedagogical quality. Focus on how the Tutor supported the Student's learning across the conversation, considering the Tutor's teaching decisions in context rather than any single behavior.","(Jurenka et al., 2024)
+(Macina et al., 2025)
+(Lee et al., 2026)"
+Overall Quality,Overall helpfulness,"Your task is to rate how helpful the Tutor was overall. Focus on the Tutor's overall usefulness to the Student, not on any single specific behavior.","(Jurenka et al., 2024)
+(Ding & Magerko, 2025)"
+Overall Quality,Tutor competence,"Your task is to rate how competent the Tutor was overall. Focus on the Tutor's general capability and effectiveness, not on any one isolated skill.","(Jurenka et al., 2024)
+(LearnLM, 2024)
+(Shi et al., 2025)"
+Affect & Encouragement,Encouragement,"Your task is to rate how well the Tutor communicates in a warm, encouraging, and supportive way.","(Jurenka et al., 2024)
+(LearnLM, 2024)
+(Maurya et al., 2025)"
+Affect & Encouragement,Empathy,"Your task is to rate how appropriately the Tutor responds to the Student's explicitly expressed feelings or emotional state. For example, the Tutor may acknowledge frustration, discouragement, or pride in a supportive way.","(Jurenka et al., 2024)
+(Ding & Magerko, 2025)
+(Srinivasa et al., 2025)
+(Wei et al., 2025)"
+Affect & Encouragement,Stimulates interest,Your task is to rate how well the Tutor stimulates the Student's curiosity or interest in the topic. Focus on whether the Tutor makes the interaction intellectually motivating.,"(LearnLM, 2024)
+(Xu et al., 2025)
+(Jurenka et al., 2024)"
+Affect & Encouragement,Recognition of success,"Your task is to rate how well the Tutor recognizes and positively reinforces the Student's successes, progress, or correct reasoning.","(Jurenka et al., 2024)
+(LearnLM, 2024)"
+Engagement & Questioning,Promotes engagement,"Your task is to rate how well the Tutor actively involves the Student in the learning process. For example, the Tutor may provide practice problems or opportunities for participation.","(Jurenka et al., 2024)
+(LearnLM, 2024)"
+Engagement & Questioning,Guiding questions,Your task is to rate the extent to which the Tutor asks guiding questions to make the Student think and work toward the answer themselves.,"(Jurenka et al., 2024)
+(LearnLM, 2024)
+(Macina et al., 2025)
+(Sharma et al., 2026)
+(Lee et al., 2026)
+(Wei et al., 2025)
+(Shi et al., 2025)
+(Shi et al., 2026)"
+Engagement & Questioning,Formative assessment,Your task is to rate how well the Tutor uses questions or prompts to assess the Student's current understanding in order to guide the next teaching move.,"(Sharma et al., 2026)
+(Wei et al., 2025)
+(Lee et al., 2026)"
+Engagement & Questioning,Does not give away answer too quickly,Your task is to rate the extent to which the Tutor avoids giving away the answer too quickly when it should guide the Student through reasoning or productive struggle.,"(Jurenka et al., 2024)
+(LearnLM, 2024)
+(Maurya et al., 2025)
+(Srinivasa et al., 2025)
+(Lee et al., 2026)"
+Engagement & Questioning,Higher-order thinking,"Your task is to rate how well the Tutor helps the Student move beyond surface-level answers and think more deeply, including through logical analysis, evaluation, or synthesis of information.","(Sharma et al., 2026)
+(Xu et al., 2025)
+(Wei et al., 2025)
+(Ding & Magerko, 2025)"
+Accuracy,Factual correctness,Your task is to rate the factual correctness of the Tutor's statements. Focus on whether the content is true and free of factual errors.,"(Jurenka et al., 2024)
+(LearnLM, 2024)
+(Macina et al., 2025)
+(Srinivasa et al., 2025)
+(Xu et al., 2025)
+(Lee et al., 2026)"
+Accuracy,Reasoning validity,"Your task is to rate how logically valid, justifiable, and free of contradictions the Tutor's reasoning is.","(Jurenka et al., 2024)
+(LearnLM, 2024)
+(Xu et al., 2025)"
+Accuracy,Uncertainty calibration,"Your task is to rate how appropriately the Tutor expresses uncertainty when it is not fully sure, rather than presenting uncertain claims as certain facts.","(Jurenka et al., 2024)
+(LearnLM, 2024)
+(Lee et al., 2026)"
+Metacognition,Reflection prompts,"Your task is to rate how well the Tutor encourages the Student to reflect on their thinking, understanding, or learning process.","(Sharma et al., 2026)
+(Lee et al., 2026)
+(Shi et al., 2025)"
+Metacognition,Self-monitoring,"Your task is to rate how well the Tutor helps the Student monitor their own understanding, confidence, or progress while solving the task.","(Sharma et al., 2026)
+(Wei et al., 2025)
+(Shi et al., 2025)"
+Metacognition,Planning next steps,"Your task is to rate how well the Tutor helps the Student identify productive next steps for learning, practice, or improvement.","(Sharma et al., 2026)
+(Lee et al., 2026)"
+Style & Presentation,Naturalness,"Your task is to rate the Tutor's responses in terms of sounding natural, conversational, and socially appropriate rather than robotic or unnatural.","(Maurya et al., 2025)
+(Wei et al., 2025)"
+Style & Presentation,Information presentation,Your task is to rate how well the Tutor presents information in a well-structured and straightforward way.,"(Jurenka et al., 2024)
+(LearnLM, 2024)
+(Srinivasa et al., 2025)
+(Wei et al., 2025)"
+Style & Presentation,Concise,Your task is to rate how concisely the Tutor communicates. Focus on whether the response is an appropriate length and avoids repetitive information.,"(Jurenka et al., 2024)
+(LearnLM, 2024)
+(Srinivasa et al., 2025)
+(Wei et al., 2025)"
+Instructional Support,Explains concepts clearly,Your task is to rate how clearly the Tutor explains underlying concepts or skills in a way that is easy for the Student to understand.,"(Jurenka et al., 2024)
+(Maurya et al., 2025)
+(Macina et al., 2025)
+(LearnLM, 2024)
+(Srinivasa et al., 2025)
+(Xu et al., 2025)
+(Wei et al., 2025)
+(Shi et al., 2026)"
+Instructional Support,Analogies,"Your task is to rate how well the Tutor uses narratives, case studies, or analogies as appropriate to support the Student's learning.","(Jurenka et al., 2024)
+(LearnLM, 2024)
+(Srinivasa et al., 2025)
+(Sharma et al., 2026)
+(Lee et al., 2026)"
+Instructional Support,Stepwise guidance,Your task is to rate how effectively the Tutor guides the Student through the task using appropriate intermediate steps.,"(Jurenka et al., 2024)
+(Maurya et al., 2025)
+(Macina et al., 2025)
+(LearnLM, 2024)
+(Srinivasa et al., 2025)
+(Lee et al., 2026)"
+Instructional Support,Scaffolding,Your task is to rate how well the Tutor provides an appropriate level of support to move the Student forward without making the task unnecessarily easy or doing all the thinking for them.,"(Jurenka et al., 2024)
+(Sharma et al., 2026)
+(Macina et al., 2025)
+(Shi et al., 2025)"
+Instructional Support,Actionable hints,Your task is to rate how well the Tutor provides hints or cues that the Student could realistically act on to make progress.,"(Jurenka et al., 2024)
+(Maurya et al., 2025)
+(Srinivasa et al., 2025)
+(Lee et al., 2026)"
+Instructional Support,Manageable chunks,Your task is to rate how well the Tutor breaks information into manageable pieces that are easy to process.,"(LearnLM, 2024)
+(Jurenka et al., 2024)"
+Instructional Support,Organization and sequencing,Your task is to rate how well the Tutor presents information in a logical order that builds understanding from simpler or more intuitive ideas toward more complex ones.,"(Jurenka et al., 2024)
+(LearnLM, 2024)
+(Shi et al., 2025)"
+Alignment to Constraints,System prompt alignment,"Your task is to rate how well the Tutor follows the requirements, role expectations, and constraints given in its instructions or system prompt.","(Macina et al., 2025)
+(Srinivasa et al., 2025)
+(Xu et al., 2025)
+(Ding & Magerko, 2025)
+(Shi et al., 2026)"
+Alignment to Constraints,Staying on topic,"Your task is to rate how well the Tutor keeps the conversation focused on the relevant topic or lesson goal rather than drifting off topic. For example, the Tutor should avoid irrelevant content or redirect the Student as needed.","(Jurenka et al., 2024)
+(LearnLM, 2024)
+(Maurya et al., 2025)
+(Srinivasa et al., 2025)
+(Xu et al., 2025)
+(Wei et al., 2025)"
+Alignment to Constraints,Role adherence,"Your task is to rate how well the Tutor behaves in a way that matches its intended pedagogical role, such as tutor, guide, or coach.","(Shi et al., 2026)
+(Xu et al., 2025)"
+Alignment to Constraints,Contextual consistency,Your task is to rate how well the Tutor's responses logically follow from the Student's message and prior dialogue context.,"(Maurya et al., 2025)
+(Xu et al., 2025)
+(Shi et al., 2026)"
+Mistake Handling,Mistake identification,Your task is to rate how well the Tutor detects and identifies mistakes made by the Student.,"(Jurenka et al., 2024)
+(Maurya et al., 2025)
+(Miller & DiCerbo, 2024)
+(Srinivasa et al., 2025)
+(Xu et al., 2025)
+(Ding & Magerko, 2025)"
+Mistake Handling,Mistake localization,Your task is to rate how well the Tutor identifies where the Student's mistake occurred or which part of the reasoning was wrong.,"(Maurya et al., 2025)
+(Macina et al., 2025)
+(Xu et al., 2025)
+(Ding & Magerko, 2025)
+(Srinivasa et al., 2025)"
+Mistake Handling,Misconception diagnosis,Your task is to rate how well the Tutor identifies the underlying misconception or misunderstanding behind the Student's error.,"(Jurenka et al., 2024)
+(Otero et al., 2025)
+(Srinivasa et al., 2025)"
+Mistake Handling,Mistake guidance,Your task is to rate how effectively the Tutor guides the Student through discovering or fixing a mistake.,"(Jurenka et al., 2024)
+(LearnLM, 2024)"
+Adaptivity,Goal responsiveness,"Your task is to rate how well the Tutor identifies and uses the Student's learning goal, question intent, or stated objective to adapt its response.","(LearnLM, 2024)
+(Jurenka et al., 2024)
+(Shi et al., 2025)
+(Ding & Magerko, 2025)"
+Adaptivity,Learner-level calibration,"Your task is to rate how well the Tutor adjusts the level of explanation, vocabulary, and difficulty to match the Student's current level of understanding.","(Jurenka et al., 2024)
+(LearnLM, 2024)
+(Srinivasa et al., 2025)
+(Xu et al., 2025)
+(Lee et al., 2026)"
+Adaptivity,Adapts when student is stuck,"Your task is to rate how well the Tutor adapts when the Student becomes stuck, for example by changing the explanation, giving a hint, or reducing complexity.","(Jurenka et al., 2024)
+(LearnLM, 2024)"
+Adaptivity,Personalization,"Your task is to rate how well the Tutor tailors its teaching to the Student's relevant background, learning needs, or ongoing performance rather than giving the same generic response to any learner.","(LearnLM, 2024)
+(Xu et al., 2025)
+(Ding & Magerko, 2025)
+(Lee et al., 2026)"
+Adaptivity,Adjusts support over time,Your task is to rate how well the Tutor adjusts its level of support as the conversation progresses in response to the Student's evolving needs or demonstrated understanding.,"(Jurenka et al., 2024)
+(LearnLM, 2024)
+(Shi et al., 2025)
+(Wei et al., 2025)"

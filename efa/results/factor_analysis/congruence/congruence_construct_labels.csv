@@ -1,0 +1,9 @@
+construct,gpt_factor,haiku_factor,gemma_factor,retained
+Engagement and questioning,Factor_2,Factor_1,Factor_1,yes
+Affect and encouragement,Factor_6,Factor_2,Factor_2,yes
+Accuracy,Factor_1,Factor_5,Factor_4,yes
+Analogies,Factor_5,Factor_6,Factor_5,yes
+Metacognition,Factor_7,Factor_7,Factor_7,yes
+Alignment to constraints/goals,Factor_4,Factor_4,Factor_6,no
+Style and presentation,,Factor_3,Factor_3,no
+Mistake handling,Factor_3,,,no

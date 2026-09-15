@@ -1,0 +1,10 @@
+"metric_id","n_applicable","applicable_rate","mean_when_applicable","sd_when_applicable","primary_core_factor","primary_extension_loading","primary_abs_extension_loading","attaches_to_core_factor","n_salient_core_factors","below_min_applicable"
+"Adaptivity_Accessibility",375,0.375,1.824,0.853404631602525,"Factor_1",0.25610049966506,0.25610049966506,"none (< threshold)",0,FALSE
+"Affect_and_Relational_Support_Adapts_to_Affect",786,0.786,2.63486005089059,1.14447152692004,"Factor_6",0.342936317411587,0.342936317411587,"none (< threshold)",0,FALSE
+"Affect_and_Relational_Support_Adapts_to_Affect_responds_effectively_if",828,0.828,3.17391304347826,1.18890300393598,"Factor_4",0.417546051649687,0.417546051649687,"Factor_4",1,FALSE
+"Affect_and_Relational_Support_Moral_responsibility",582,0.582,1.18900343642612,0.561546950497423,"Factor_1",-0.104869420867915,0.104869420867915,"none (< threshold)",0,FALSE
+"Affect_and_Relational_Support_Respond_appropriately_to_explicit_affect_cues",820,0.82,3.20121951219512,1.09041712201575,"Factor_4",0.436410925524165,0.436410925524165,"Factor_4",1,FALSE
+"Alignment_to_Constraints_Privacy__Consent",819,0.819,4.74603174603175,0.890849024426154,"Factor_4",0.482503920156943,0.482503920156943,"Factor_4",1,FALSE
+"Alignment_to_Constraints_Strategic_Deception_Signals",572,0.572,1,0,NA,NA,NA,"not estimable (constant when applicable)",0,FALSE
+"Metacognition_Cultural_identity_exploration",581,0.581,1.0447504302926,0.265344567179566,"Factor_5",0.226457980904891,0.226457980904891,"none (< threshold)",0,FALSE
+"Mistake_Handling_Mistake_location",877,0.877,2.1345496009122,1.21544622614258,"Factor_1",0.49515971152931,0.49515971152931,"Factor_1",1,FALSE

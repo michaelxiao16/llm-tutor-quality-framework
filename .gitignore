@@ -1,0 +1,30 @@
+# Python / R / OS
+__pycache__/
+*.pyc
+.venv/
+.Rhistory
+.RData
+.Rproj.user/
+.DS_Store
+efa/renv/library/
+efa/renv/staging/
+
+# Secrets: API keys come from environment variables only
+.env
+.env.*
+
+# Conversation data and judge scores are never committed
+convolearn/*.csv
+**/scores/
+**/batch_inputs/
+**/convolearn_conversations/
+*.jsonl
+
+# Analysis outputs: ignore everything under efa/results, then allow the published inputs
+efa/results/**
+!efa/results/**/
+!efa/results/factor_analysis/correlation_matrices/item_correlations_*.csv
+!efa/results/factor_analysis/preprocessing/preprocessing_audit_*.csv
+!efa/results/factor_analysis/conditional/conditional_descriptives_*.csv
+!efa/results/factor_analysis/conditional/conditional_extension_loadings_*.csv
+!efa/results/factor_analysis/congruence/congruence_construct_labels.csv

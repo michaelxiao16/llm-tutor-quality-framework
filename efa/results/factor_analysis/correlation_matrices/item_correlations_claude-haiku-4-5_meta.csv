@@ -1,0 +1,2 @@
+judge_model,n_obs,n_items,correlation,max_error_rate,core_max_na_rate,min_applicable_convos,note
+claude-haiku-4-5-20251001,1000,143,pearson,0.2,0.1,200,"Core metrics only, after error filtering, applicability tiering, mean imputation of residual gaps and zero-variance removal. n_obs is required to refit (e.g. psych::fa(r, n.obs = n_obs))."
